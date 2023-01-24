@@ -1,8 +1,8 @@
 {
-  "name": "angular-upgrade-poc",
+  "name": "angularjs",
   "private": true,
   "version": "0.0.0",
-  "description": "Upgrade angularJS to angular using hybrid modules approach",
+  "description": "angularjs v1.8 application",
   "license": "MIT",
   "dependencies": {
     "angular": "1.8.x",
