@@ -1,9 +1,8 @@
 {
-  "name": "angular-phonecat",
+  "name": "angular-upgrade-poc",
   "private": true,
   "version": "0.0.0",
-  "description": "A tutorial application for AngularJS",
-  "repository": "https://github.com/angular/angular-phonecat",
+  "description": "Upgrade angularJS to angular using hybrid modules approach",
   "license": "MIT",
   "dependencies": {
     "angular": "1.8.x",
